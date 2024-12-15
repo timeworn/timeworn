@@ -1,4 +1,4 @@
-<img height="150" src=""/>
+<img height="150" src="https://raw.githubusercontent.com/timeworn/timeworn/refs/heads/main/assets/banner.png"/>
 
 ## About Me
 Hi, I'm timeworn, your local Stack Overflow enjoyer.
