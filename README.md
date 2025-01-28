@@ -3,7 +3,7 @@
 ## About Me
 Hi, I'm timeworn, your local Stack Overflow enjoyer.
 
-### Hobbies</h3>
+### Hobbies
 * Reading
 * Gaming
 * Gacha Addict
@@ -45,9 +45,6 @@ Hi, I'm timeworn, your local Stack Overflow enjoyer.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
-
-
-## Contact Me
 
 
 ## Github Stats
