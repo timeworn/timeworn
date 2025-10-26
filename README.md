@@ -6,8 +6,6 @@ Hi, I'm timeworn, your local Stack Overflow enjoyer.
 ### Hobbies
 * Reading
 * Gaming
-* Gacha Addict
-* Game Development
 
 ### Some Games I Play
 * osu!
@@ -16,7 +14,7 @@ Hi, I'm timeworn, your local Stack Overflow enjoyer.
 * Honkai: Star Rail
 
 
-## Skills & Tools
+## Stuff I Know
 
 ### Languages
 <div align="left">
@@ -49,7 +47,7 @@ Hi, I'm timeworn, your local Stack Overflow enjoyer.
 
 ## Github Stats
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=timeworn.timeworn&"  />
+  [<img src="https://count.getloli.com/@timeworn?name=timeworn&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 </div>
 
 <div align="left">
