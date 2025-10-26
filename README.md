@@ -47,7 +47,7 @@ Hi, I'm timeworn, your local Stack Overflow enjoyer.
 
 ## Github Stats
 <div align="left">
-  [<img src="https://count.getloli.com/@timeworn?name=timeworn&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+  <img src="https://count.getloli.com/@timeworn?name=timeworn&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 </div>
 
 <div align="left">
