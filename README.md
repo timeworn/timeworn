@@ -51,7 +51,7 @@ Hi, I'm timeworn, your local Stack Overflow enjoyer.
 </div>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=timeworn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=timeworn&show_icons=true&theme=dark" alt="streak graph"  />
 </div>
 
 <!--
